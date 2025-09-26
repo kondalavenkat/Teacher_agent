@@ -6,5 +6,6 @@ agno
 composio-phidata
 composio_core
 composio
-
+ollama
 google-search-results
+
